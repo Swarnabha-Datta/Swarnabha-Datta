@@ -76,15 +76,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnabha05&show_icons=true&theme=radical" height="170px" />
-  <img src="https://streak-stats.demolab.com?user=swarnabha05&theme=radical" height="170px" />
-</p>
-
----
-
 ### 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
